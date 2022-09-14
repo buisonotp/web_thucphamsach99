@@ -1,4 +1,5 @@
 /* eslint-disable react/jsx-pascal-case */
+
 import { Fragment } from 'react';
 import {BrowserRouter as Router,Routes,Route} from 'react-router-dom';
 import {pulicRouter} from './routes'
